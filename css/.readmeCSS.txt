@@ -1,0 +1,68 @@
+TEXTO EXPLICATIVO REALIZADO POR IA REVISADO POR MARJORIE
+### Explicación técnica de los atributos CSS utilizados:
+
+1. **Fuente Moderna y Consistente (body)**:
+
+   * Se utilizó un fondo con un gradiente lineal para darle una apariencia más dinámica al diseño de la página. La combinación de colores suaves (`#f1f3f5` y `#dbe1e5`) da un toque moderno y atractivo, sin ser invasiva.
+   * La tipografía seleccionada es `Poppins`, una fuente sans-serif limpia y moderna, ideal para sitios web actuales, que asegura una lectura agradable y clara.
+
+2. **Fondo del Footer**:
+
+   * El fondo del `footer` tiene un color gris oscuro (`#6a6d70`), que contrasta bien con el resto de la página y refuerza la separación visual del contenido principal.
+   * Se aplicó un borde redondeado (`border-radius`) en la parte superior para un acabado más suave y elegante.
+
+3. **Barra de Navegación**:
+
+   * El `navbar` fue estilizado con el mismo tono gris oscuro, y se le aplicó un borde redondeado en la parte inferior para coincidir con la estética suave y moderna de la página.
+   * Esta barra se mantiene funcional y con estilo minimalista, destacando la navegación sin recargar la interfaz.
+
+4. **Imagen del Perfil**:
+
+   * Las imágenes del perfil (`img.img-fluid`) se redondearon con `border-radius: 12px` para darles una apariencia más amigable y menos rígida.
+   * Se aplicó una sombra suave (`box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1)`) para destacar las imágenes sin hacer que se vean demasiado pesadas.
+
+5. **Título Principal (h1)**:
+
+   * El título `h1` utiliza la fuente cursiva para darle un toque único y personal al sitio, acompañado de un tamaño de fuente flexible (`font-size: 5vw`) que se adapta bien a diferentes tamaños de pantalla.
+   * Se incorporó un sombreado de texto (`text-shadow: 2px 2px 4px #FFFFFF`) para mejorar la legibilidad del texto y hacerlo más destacado.
+
+6. **Subtítulo (h2)**:
+
+   * El subtítulo tiene un tamaño de fuente un poco más pequeño (`font-size: 4vw`) y se utiliza un color más oscuro para dar contraste con el título.
+   * El texto también tiene un efecto de sombra para resaltar sin restarle claridad.
+
+7. **Secciones Estilo Tarjeta (section)**:
+
+   * Cada sección fue estilizada con un fondo blanco (`background-color: #ffffff`), bordes redondeados (`border-radius: 12px`) y una sombra sutil (`box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05)`) para darles la apariencia de tarjetas flotantes.
+   * La propiedad `padding: 1.5rem` asegura que el contenido de cada sección no se vea comprimido, mejorando la legibilidad.
+   * El diseño de las secciones también garantiza una buena separación entre ellas, gracias al `margin-bottom: 2rem`, lo que hace que la página sea visualmente más cómoda.
+
+8. **Línea Divisoria entre Secciones (section + section)**:
+
+   * Se añadió una línea divisoria muy sutil entre secciones consecutivas con `border-top: 1px solid rgba(0, 0, 0, 0.1)` para mejorar la organización visual del contenido.
+   * Este espacio también ayuda a crear una sensación de estructura y orden, sin sobrecargar el diseño.
+
+9. **Estilo Especial para el Ícono de WhatsApp (a.whatsapp)**:
+
+   * El ícono de WhatsApp tiene un efecto de sombra (`box-shadow: 0px 0px 20px rgba(106, 21, 162, 0.5)`) que lo hace resaltar sin ser demasiado invasivo.
+   * El borde redondeado (`border-radius: 12px`) también contribuye a la estética limpia y amigable.
+   * Se utilizó `transition: transform 0.3s ease` para dar una animación suave cuando el usuario interactúa con el ícono, sin ser molesto.
+
+10. **Imagen de los Íconos de Contacto (footer img, a img)**:
+
+    * Los íconos de contacto (como el de GitHub y WhatsApp) tienen un tamaño de 50px x 50px, con una transición suave que aumenta su tamaño cuando el usuario pasa el mouse sobre ellos (`transform: scale(1.1)`), lo que crea un efecto visual interactivo y atractivo.
+
+11. **Efectos Hover y Focus para Enlaces (a\:hover, a\:focus)**:
+
+    * Los enlaces tienen un efecto de opacidad y subrayado al pasar el mouse sobre ellos, lo que mejora la interactividad de la página y proporciona una retroalimentación visual clara para el usuario.
+
+12. **Modo Oscuro Automático (prefers-color-scheme)**:
+
+    * Se añadió soporte para el modo oscuro, de modo que si el usuario tiene configurado este modo en su sistema, la página cambiará automáticamente su fondo y texto a tonos más oscuros. Esto proporciona una mejor experiencia visual en entornos con poca luz.
+
+---
+
+Con estos estilos, el sitio web tiene una apariencia moderna, amigable y clara. Las animaciones de entrada y los efectos de interacción, como los cambios en los íconos al pasar el mouse y la transición de las secciones, crean una experiencia dinámica sin perder la simplicidad y elegancia del diseño.
+
+Este resumen proporciona una explicación detallada de cada uno de los atributos utilizados en el CSS, de forma que puedas entender cómo
+cada parte contribuye al diseño visual y la funcionalidad de la página web.
