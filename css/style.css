@@ -36,6 +36,8 @@ h1 {
     font-weight: 300;
     color: #4682B4;
     text-shadow: 2px 2px 4px #FFFFFF;
+    text-align: center;
+    align-items: center;
 }
 
 /* Subtítulo */
